@@ -17,7 +17,7 @@ export default function CouponClientUI({ coupons }: { coupons: any[] }) {
   return (
     <div className="max-w-md mx-auto p-4 bg-gray-50 min-h-screen relative">
       <h1 className="text-xl font-bold text-center mb-6 pt-4 text-gray-800">
-        🎮 오늘의 쿠폰 싹쓸이
+        🎮 다크에덴 BJ 쿠폰 몰아보기
       </h1>
       
       {/* 반투명(블러) + 클릭 통과(pointer-events-none)되는 스텔스 알림창 */}
